@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\sesra\source\repos\VeriYapıları_B191200370\Kaynak.c(87,21): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  VeriYapıları_B191200370.vcxproj -> C:\Users\sesra\source\repos\VeriYapıları_B191200370\Debug\VeriYapıları_B191200370.exe
